@@ -6,5 +6,6 @@ public class MyClass {
         System.out.println("hello");
         System.out.println("world");
         System.out.println("everybody");
+        System.out.println("1");
     }
 }
