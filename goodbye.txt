@@ -1,2 +1,2 @@
-goodbye
-2
+goodbye;
+good!;
