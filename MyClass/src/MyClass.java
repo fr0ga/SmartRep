@@ -7,6 +7,5 @@ public class MyClass {
         System.out.println("world");
         System.out.println("everybody");
         System.out.println("1");
-        System.out.println("what's up");
     }
 }
